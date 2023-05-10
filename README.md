@@ -1,1 +1,0 @@
-# real_time_event_processing_and_predictive_analytics_platform
